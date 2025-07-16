@@ -1,6 +1,8 @@
 """
 微信公众号格式化工具
 将内容格式化为符合微信公众号发布规范的格式
+
+Author: zengzhengtx
 """
 
 import re

@@ -2,6 +2,8 @@
 """
 AI资讯微信公众号智能体 - 演示脚本
 提供简单的演示功能，无需完整的API调用
+
+Author: zengzhengtx
 """
 
 import os

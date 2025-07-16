@@ -2,6 +2,8 @@
 """
 AI资讯微信公众号智能体 - 修复版Web应用入口
 修复了时区问题的版本
+
+Author: zengzhengtx
 """
 
 import os

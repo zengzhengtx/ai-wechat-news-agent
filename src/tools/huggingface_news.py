@@ -1,6 +1,8 @@
 """
 Hugging Face资讯工具
 获取Hugging Face Hub上的最新模型、数据集和热门项目
+
+Author: zengzhengtx
 """
 
 import requests

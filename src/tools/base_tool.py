@@ -1,6 +1,8 @@
 """
 工具基类模块
 定义所有工具的基础接口和通用功能
+
+Author: zengzhengtx
 """
 
 import time

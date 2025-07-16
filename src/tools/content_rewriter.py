@@ -1,6 +1,8 @@
 """
 内容改写工具
 将技术性内容转换为通俗易懂的语言，适合微信公众号发布
+
+Author: zengzhengtx
 """
 
 import json

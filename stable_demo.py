@@ -2,6 +2,8 @@
 """
 AI资讯微信公众号智能体 - 稳定版演示
 避免API限制问题，专注于核心功能演示
+
+Author: zengzhengtx
 """
 
 import os

@@ -2,6 +2,8 @@
 """
 资讯获取工具测试脚本
 测试各种资讯源工具和内容筛选功能
+
+Author: zengzhengtx
 """
 
 import sys

@@ -1,6 +1,8 @@
 """
 网络搜索工具
 使用DuckDuckGo搜索引擎获取最新AI资讯
+
+Author: zengzhengtx
 """
 
 import requests

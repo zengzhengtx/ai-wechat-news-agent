@@ -2,6 +2,8 @@
 """
 AI资讯微信公众号智能体 - 简化版Web演示
 提供基本的Web界面演示功能
+
+Author: zengzhengtx
 """
 
 import os

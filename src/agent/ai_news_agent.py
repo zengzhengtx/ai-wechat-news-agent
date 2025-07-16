@@ -1,6 +1,8 @@
 """
 AI资讯智能体主类
 整合所有工具，实现完整的资讯获取、改写和发布流程
+
+Author: zengzhengtx
 """
 
 import json

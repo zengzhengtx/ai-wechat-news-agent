@@ -2,6 +2,8 @@
 
 基于smolagents框架开发的AI智能体，能够自动获取最新AI资讯并将其改写为适合微信公众号发布的文章格式。
 
+**作者**: zengzhengtx
+
 ## 功能特点
 
 - 🔍 **多源资讯获取**：从arXiv、Hugging Face、GitHub和网络搜索等多个渠道获取最新AI资讯

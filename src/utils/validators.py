@@ -1,6 +1,8 @@
 """
 内容验证和筛选工具
 提供内容质量评估、去重和筛选功能
+
+Author: zengzhengtx
 """
 
 import re

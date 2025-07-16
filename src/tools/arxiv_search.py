@@ -1,6 +1,8 @@
 """
 arXiv搜索工具
 获取最新的AI相关学术论文
+
+Author: zengzhengtx
 """
 
 import arxiv

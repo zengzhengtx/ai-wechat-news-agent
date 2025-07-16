@@ -1,6 +1,8 @@
 """
 质量控制模块
 提供内容质量评估和验证功能
+
+Author: zengzhengtx
 """
 
 import re

@@ -1,6 +1,8 @@
 """
 配置管理模块
 负责加载和管理应用程序配置
+
+Author: zengzhengtx
 """
 
 import os

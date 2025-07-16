@@ -1,6 +1,8 @@
 """
 数据模型定义
 定义数据库表结构和数据模型
+
+Author: zengzhengtx
 """
 
 import sqlite3

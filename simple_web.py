@@ -2,6 +2,8 @@
 """
 AI资讯微信公众号智能体 - 简化版Web界面
 不依赖LiteLLM，提供基本的Web演示功能
+
+Author: zengzhengtx
 """
 
 import os

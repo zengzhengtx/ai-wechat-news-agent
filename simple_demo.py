@@ -2,6 +2,8 @@
 """
 AI资讯微信公众号智能体 - 简化演示
 不依赖Web界面，直接在命令行中演示所有功能
+
+Author: zengzhengtx
 """
 
 import os

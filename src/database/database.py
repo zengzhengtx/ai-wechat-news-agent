@@ -1,6 +1,8 @@
 """
 数据库操作模块
 提供数据库的增删改查操作
+
+Author: zengzhengtx
 """
 
 import sqlite3

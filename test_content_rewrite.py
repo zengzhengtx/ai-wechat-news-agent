@@ -2,6 +2,8 @@
 """
 内容改写功能测试脚本
 测试内容改写和微信公众号格式化功能
+
+Author: zengzhengtx
 """
 
 import sys

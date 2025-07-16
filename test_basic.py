@@ -2,6 +2,8 @@
 """
 基础框架测试脚本
 测试配置加载、日志系统和数据库初始化
+
+Author: zengzhengtx
 """
 
 import sys

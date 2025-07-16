@@ -2,6 +2,8 @@
 """
 端到端测试脚本
 测试整个系统的工作流程
+
+Author: zengzhengtx
 """
 
 import sys

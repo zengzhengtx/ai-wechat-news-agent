@@ -2,6 +2,8 @@
 """
 AI资讯微信公众号智能体 - 修复版简化Web界面
 修复了统计功能卡死的问题
+
+Author: zengzhengtx
 """
 
 import os

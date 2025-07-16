@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
 AI资讯微信公众号智能体 - Web应用入口
+
+Author: zengzhengtx
 """
 
 import os

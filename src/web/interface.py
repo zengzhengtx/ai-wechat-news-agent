@@ -1,6 +1,8 @@
 """
 Web界面模块
 提供基于Gradio的用户界面
+
+Author: zengzhengtx
 """
 
 import os

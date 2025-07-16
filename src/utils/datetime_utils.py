@@ -1,6 +1,8 @@
 """
 日期时间处理工具
 统一处理timezone-aware和naive datetime对象
+
+Author: zengzhengtx
 """
 
 from datetime import datetime, timezone, timedelta

@@ -1,6 +1,8 @@
 """
 GitHub热门项目工具
 获取GitHub上热门的AI相关项目和仓库
+
+Author: zengzhengtx
 """
 
 import requests
