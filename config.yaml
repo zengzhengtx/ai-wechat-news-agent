@@ -1,0 +1,57 @@
+# AI资讯智能体配置文件
+
+agent:
+  model_type: "openai"
+  model_id: "gpt-4o"
+  max_steps: 20
+  max_articles_per_run: 5
+
+sources:
+  arxiv:
+    enabled: true
+    categories: ["cs.AI", "cs.LG", "cs.CL", "cs.CV", "cs.NE"]
+    max_papers: 10
+    days_back: 7
+  
+  web_search:
+    enabled: true
+    queries: 
+      - "AI news today"
+      - "artificial intelligence breakthrough"
+      - "machine learning research"
+      - "deep learning advances"
+    max_results_per_query: 5
+  
+  huggingface:
+    enabled: true
+    max_items: 15
+    trending_period: "daily"
+  
+  github:
+    enabled: true
+    topics: ["artificial-intelligence", "machine-learning", "deep-learning", "nlp"]
+    max_repos: 10
+    min_stars: 100
+
+content:
+  min_quality_score: 0.6
+  max_article_length: 3000
+  min_article_length: 800
+  duplicate_threshold: 0.8
+  
+output:
+  format: "wechat"
+  include_images: true
+  include_source_links: true
+  add_emojis: true
+  
+schedule:
+  enabled: false
+  interval: "daily"
+  time: "09:00"
+
+web_ui:
+  host: "127.0.0.1"
+  port: 7860
+  share: false
+  theme: "default"
