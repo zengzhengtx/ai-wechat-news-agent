@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "password_hash": "e31ed24dc240774ddfc1cf14ad96116ca25f053488483b0f35c76801fb464ea8",
+    "role": "admin",
+    "created_at": "2025-07-22T11:19:24.052925",
+    "last_login": "2025-07-22T11:19:58.287091"
+  },
+  "testuser": {
+    "password_hash": "9105fb91af0150733752df63557eaf27d0de5a34d72f565cb8ed595c182dbca9",
+    "role": "user",
+    "created_at": "2025-07-22T11:19:24.053362",
+    "last_login": "2025-07-22T11:19:24.053626"
+  }
+}
